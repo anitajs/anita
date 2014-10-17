@@ -1,0 +1,30 @@
+{
+  "name": "anita",
+  "homepage": "https://github.com/anitajs/anita",
+  "version": "0.0.1",
+  "authors": [
+    "Alex Tseng"
+  ],
+  "main": [
+    "dist/klass-seed.js",
+    "dist/anita.min.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "examples",
+    "specs",
+    "tools",
+    "docs",
+    "pref"
+  ],
+  "description": "Anita is a simple, module friendly, Object-Oriented JavaScript framework designed for the quick develop based to the mvvm pattern's application.",
+  "keywords": [
+    "anita",
+    "mvvm",
+    "ui",
+    "framework"
+  ]
+}
